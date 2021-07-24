@@ -1,0 +1,5 @@
+https://github.com/WomenWhoCode/WWCodePython/tree/master/Python%20Libraries%20Series/Python%20Standard%20Library
+
+You can join the slack study group with this link: https://join.slack.com/share/zt-t9yfjp1j-hE0vnV0cnRZNtx8oGoRUvw
+
+https://colab.research.google.com/drive/1-GFNni6nHHyvfVZ16DMhG-0t_VCxE75E
